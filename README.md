@@ -31,7 +31,7 @@ $ npx palx-cli "#13AFE5"
 $ npx palx-cli "#13AFE5" > theme.json
 
 # OR if installed globally
-$ palx "#13AFE5"
+$ palx-cli "#13AFE5"
 ```
 
 

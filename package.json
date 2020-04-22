@@ -7,9 +7,7 @@
   "author": "Tiaan du Plessis <tiaanduplessis@hotmail.com>",
   "license": "MIT",
   "keywords": ["palx", "cli"],
-  "bin": {
-    "palx": "cli.js"
-  },
+  "bin": "cli.js",
   "dependencies": {
     "palx": "^1.0.3"
   }
