@@ -1,12 +1,15 @@
 {
   "name": "palx-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Palx from your CLI",
   "main": "index.js",
   "repository": "https://github.com/tiaanduplessis/palx-cli.git",
   "author": "Tiaan du Plessis <tiaanduplessis@hotmail.com>",
   "license": "MIT",
-  "keywords": ["palx", "cli"],
+  "keywords": [
+    "palx",
+    "cli"
+  ],
   "bin": "cli.js",
   "dependencies": {
     "palx": "^1.0.3"
