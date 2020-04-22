@@ -1,6 +1,6 @@
 {
   "name": "palx-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use Palx from your CLI",
   "main": "index.js",
   "repository": "https://github.com/tiaanduplessis/palx-cli.git",
